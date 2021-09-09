@@ -11,5 +11,9 @@
    <img align = "center" alt ="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
    <img align = "center" alt ="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img align = "center" alt ="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img align = "center" alt ="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   
 </div>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-souza)](https://github.com/anuraghazra/github-readme-stats)
