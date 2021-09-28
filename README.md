@@ -1,4 +1,4 @@
-### Olá! Eu sou o Murilo Souza 🤙
+## Olá! Eu sou o Murilo Souza 🤙
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-leme-de-souza/)
 
