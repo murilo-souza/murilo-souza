@@ -1,10 +1,14 @@
-## Olá! Eu sou o Murilo Souza 🤙
+## Hey! I'm Murilo Souza 🤙
+
+### I love technology and I'm studying front-end development with React Js and React Native. Programming changed my way to see the world
+
+<br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-leme-de-souza/)
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo-souza&show_icons=true&theme=dracula)
 
-## Tecnologia que eu utilizo
+## Technologies I use
 <div style="display: inline_block"><br/>
    <img align = "center" alt ="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
    <img align = "center" alt ="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
