@@ -1,4 +1,4 @@
-## Hey! I'm Murilo Souza 🤙
+## Hey! I'm Murilo Leme de Souza 🤙
 
 ### Searching an opportunity to be a web and mobile developer
 ### I love technology and I'm studying front-end development with React Js and React Native. Programming changed my way to see the world
