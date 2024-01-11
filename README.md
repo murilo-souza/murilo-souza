@@ -1,7 +1,7 @@
 ## Hey! I'm Murilo Leme de Souza 🤙
 
-### Searching for an opportunity to be a front-end developer
-### I love technology and I'm studying front-end development with React Js and React Native. Programming changed my way to see the world
+### I'm a front-end developer
+### I love technology and have experience with Next Js, React, and React Native. Programming changed my way of seeing the world
 
 <br/>
 
